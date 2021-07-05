@@ -1,6 +1,6 @@
 <h1>Menherafflesia: Flowering Abyss English Patch</h1>
 
-This is a repository for the an English conversion patch for the game Menherafflesia. 
+This is a repository for the English conversion patch for the game Menherafflesia. 
 
 <h2>Notable Changes:</h2>
 
