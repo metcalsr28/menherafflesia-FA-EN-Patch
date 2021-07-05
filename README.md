@@ -1,28 +1,28 @@
-Menherafflesia: Flowering Abyss English Patch
+<h1>Menherafflesia: Flowering Abyss English Patch</h1>
 
 This is a repository for the an English conversion patch for the game Menherafflesia. 
 
-Notable Changes:
+<h2>Notable Changes:</h2>
 
-Translated UI
+* Translated UI
 
-Subtitled Cinematics
+* Subtitled Cinematics
 
-Fully Translated Story
+* Fully Translated Story
 
-Quality of Life Improvements
+* Quality of Life Improvements
 
 This repository is currently under development. UI is not fully translated yet.
 
-Routes Finished:
+<h2>Routes Finished:</h2>
 
-Prologue
+* Prologue
 
-Matsuri
+* Matsuri
 
 I am working on translating the second route now and it should be available shortly.
 
-Use:
+<h2>Use:</h2>
 
 Simply drop the file "tyranoproject.tpatch" into your game folder and the game should auto-detect the patch and play as intended.
 
