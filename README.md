@@ -15,3 +15,8 @@ Prologue
 Matsuri
 
 I am working on translating the second route now and it should be available shortly.
+
+Use:
+Simply drop the file "tyranoproject.tpatch" into your game folder and the game should auto-detect the patch and play as intended.
+
+Once again, this is work in development, constructive criticism would be greatly appreciated, but offensive language or abusive behavior is not.
